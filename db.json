@@ -3,17 +3,17 @@
     {
       "id": "1",
       "content": "HTML is easy",
-      "important": true
+      "important": false
     },
     {
       "id": "2",
       "content": "Browser can execute only JavaScript",
-      "important": true
+      "important": false
     },
     {
       "id": "3",
       "content": "GET and POST are the most important methods of HTTP protocol",
-      "important": true
+      "important": false
     },
     {
       "id": "6a0e",
@@ -43,7 +43,7 @@
     {
       "id": "86a5",
       "content": "used alternative for noteservice",
-      "important": false
+      "important": true
     },
     {
       "id": "49ad",
@@ -58,7 +58,7 @@
     {
       "id": "4253",
       "content": "asim burney",
-      "important": false
+      "important": true
     },
     {
       "id": "c45c",
@@ -68,7 +68,7 @@
     {
       "id": "ccf6",
       "content": "hvjhsjhvs",
-      "important": false
+      "important": true
     },
     {
       "id": "1255",
@@ -84,6 +84,26 @@
       "id": "f3b1",
       "content": "fig lead weden orwy",
       "important": false
+    },
+    {
+      "id": "976e",
+      "content": "first test",
+      "important": false
+    },
+    {
+      "id": "c8ee",
+      "content": "new note can be added",
+      "important": true
+    },
+    {
+      "id": "5b0c",
+      "content": "this is shubman gill logged note",
+      "important": true
+    },
+    {
+      "id": "e648",
+      "content": "hey this is new note togglable",
+      "important": true
     }
   ]
 }
